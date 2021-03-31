@@ -1,7 +1,7 @@
 ---
 jobs:
 - name: job
-  public: true
+  public: ((public))
   plan:
   - task: simple-task
     config:
